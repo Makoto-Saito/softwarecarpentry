@@ -4,3 +4,4 @@
 - avocado
 - lemon
 ## Methods
+- cut and boil
